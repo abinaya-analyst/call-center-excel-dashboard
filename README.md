@@ -45,6 +45,7 @@ This project presents an interactive Microsoft Excel dashboard developed to moni
 
 ![Dashboard](Dashboard.png)
 
+
 ---
 
 ## 💡 Key Insights
