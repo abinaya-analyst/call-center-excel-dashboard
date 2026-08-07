@@ -1,19 +1,28 @@
 # 📊 Call Center Dashboard (Excel)
 
 ## 📌 Project Overview
-This Excel dashboard provides insights into call center performance, including call volume, revenue, customer satisfaction, and agent performance.
+This project presents an interactive Microsoft Excel dashboard developed to monitor call center performance. It provides insights into operational KPIs, customer satisfaction, call trends, revenue, and agent performance to support business decision-making.
 
 ---
 
 ## 🛠 Tools Used
-- Microsoft Excel
-- Pivot Tables
-- Charts
-- Conditional Formatting
+*Microsoft Excel
+
+*Pivot Tables
+
+*Pivot Charts
+
+*XLOOKUP
+
+*SUMIFS
+
+*COUNTIFS
+
+*Conditional Formatting
 
 ---
 
-## 📈 Key Metrics
+## 📈 Key Performance Indicators (KPIs)
 - Total Calls: 1,000
 - Total Revenue: ₹96,623
 - Total Duration: 89,850
@@ -34,15 +43,15 @@ This Excel dashboard provides insights into call center performance, including c
 
 ## 📷 Dashboard Preview
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Dashboard.png)
 
 ---
 
 ## 💡 Key Insights
 - Peak call volume observed in March  
-- Majority of calls handled on weekends  
-- Female callers slightly higher in some regions  
-- Ratings mostly between 3–5 indicating moderate satisfaction  
+- Weekend call volumes were higher than weekdays. 
+- Female callers represented a slightly higher proportion in selected regions.
+- Customer ratings were predominantly between 3 and 5, indicating moderate satisfaction.
 
 ---
 
