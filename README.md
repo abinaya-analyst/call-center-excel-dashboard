@@ -43,7 +43,7 @@ This project presents an interactive Microsoft Excel dashboard developed to moni
 
 ## 📷 Dashboard Preview
 
-![Dashboard](Dashboard.png)
+![Dashboard](./dashboard.png)
 
 
 ---
